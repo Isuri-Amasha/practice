@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229917317096",
+    "firebase_url": "https://fragment-ac7ea.firebaseio.com",
+    "project_id": "fragment-ac7ea",
+    "storage_bucket": "fragment-ac7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229917317096:android:06872a991c59c75ba3765d",
+        "android_client_info": {
+          "package_name": "com.example.fragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229917317096-lotrb5ue3uruiqk9j9mvlsognkaspqvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jPSVduhNIxQ47U48Sa2ukiMbXysiWqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229917317096-lotrb5ue3uruiqk9j9mvlsognkaspqvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
